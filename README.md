@@ -1,0 +1,1 @@
+# python-mediator-pattern
